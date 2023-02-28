@@ -17,5 +17,6 @@ También se tomaron como base las siguientes guías ::
 
 * <a href="https://webmin.com/" target = _blank>Webmin</a>
 * <a href="https://github.com/nvm-sh/nvm" target = _blank>NVM, Node Versión Manager</a>
+* <a href=" " target _blank>NPM v9.5.1</a>
 * <a href="https://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/
 " target = _blank>Base de datos MongoDb</a>
