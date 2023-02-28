@@ -8,4 +8,4 @@ La guía es tomada de https://github.com/team-exor/eiquidus, aunque primero inst
 <hr/>
 
 * <a href="https://webmin.com/">Webmin</a>
-* NVM, Node Versión Manager
+* <a href="https://github.com/nvm-sh/nvm">NVM, Node Versión Manager</a>
